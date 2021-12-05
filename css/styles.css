@@ -1,0 +1,45 @@
+
+h1{
+  text-align: centre;
+  color: teal;
+  font-family: fantasy;
+}
+.centre {
+text-align: center;
+}
+.important {
+  background-color: white;
+}
+.popular {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+}
+h2.popular {
+  font-size: 28px;
+  text-decoration-line: underline;
+  text-emphasis: bold;
+}
+p.centre {
+  font-size: 16px;
+}
+p.tropical {
+  font-family: fantasy;
+  align-content: center;
+  font-size: 18px;
+  color: #7dc410;
+}
+h2.tropical {
+  text-decoration-line: underline;
+  color: #f7325e;
+  font-family: fantasy;
+}
+button {
+  
+}
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lavender;
+  }
+
+}
